@@ -9,11 +9,19 @@ Then, to create the boot.img:
 
 Work:
 touchscreen
+
 lcm (stripe top)
+
 sound
 
+
 Not working:
+
 keypad (volume)
+
 accelerometer
+
 alps
+
 camera
+

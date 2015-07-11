@@ -12,6 +12,7 @@ touchscreen
 lcm (stripe top)
 sound
 
+
 Not working:
 keypad (volume)
 accelerometer

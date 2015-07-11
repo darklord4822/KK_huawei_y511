@@ -13,7 +13,7 @@ lcm (stripe top)
 sound
 
 Not working:
-keypad
+keypad (volume)
 accelerometer
 alps
 camera

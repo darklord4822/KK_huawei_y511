@@ -16,6 +16,6 @@ sound
 Not working:
 keypad (volume)
 accelerometer
-alps
+alsps
 camera
 
